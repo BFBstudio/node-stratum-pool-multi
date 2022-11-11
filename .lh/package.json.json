@@ -1,0 +1,18 @@
+{
+    "sourceFile": "package.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1668191973544,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1668191973544,
+            "name": "Commit-0",
+            "content": "{\r\n  \"name\": \"stratum-pool\",\r\n  \"version\": \"0.2.0\",\r\n  \"description\": \"High performance stratum pool server in Node.js\",\r\n  \"keywords\": [\r\n    \"stratum\",\r\n    \"mining\",\r\n    \"pool\",\r\n    \"server\",\r\n    \"poolserver\",\r\n    \"bitcoin\",\r\n    \"litecoin\",\r\n    \"scrypt\"\r\n  ],\r\n  \"homepage\": \"https://github.com/s-nomp/node-stratum-pool\",\r\n  \"bugs\": {\r\n    \"url\": \"https://github.com/s-nomp/node-stratum-pool/issues\"\r\n  },\r\n  \"license\": \"GPL-2.0\",\r\n  \"author\": \"s-nomp developers\",\r\n  \"contributors\": [\r\n    \"egyptianbman\",\r\n    \"TheSeven\",\r\n    \"vekexasia\"\r\n  ],\r\n  \"main\": \"lib/index.js\",\r\n  \"repository\": {\r\n    \"type\": \"git\",\r\n    \"url\": \"https://github.com/s-nomp/node-stratum-pool.git\"\r\n  },\r\n  \"dependencies\": {\r\n    \"async\": \"^2.6.1\",\r\n    \"base58-native\": \"^0.1.4\",\r\n    \"bignum\": \"^0.13.0\",\r\n    \"bitgo-utxo-lib\": \"git+https://github.com/miketout/bitgo-utxo-lib.git\",\r\n    \"equihashverify\": \"git+https://github.com/BFBstudio/equihashverify-multi.git\",\r\n    \"verushash\": \"git+https://github.com/VerusCoin/verushash-node#e6572f345b8c24e4a1212f6c9eb66c1c400d83e1\",\r\n    \"merkle-bitcoin\": \"^1.0.2\",\r\n    \"promise\": \"^8.0.1\"\r\n  },\r\n  \"engines\": {\r\n    \"node\": \">=8.11\"\r\n  }\r\n}\r\n"
+        }
+    ]
+}
